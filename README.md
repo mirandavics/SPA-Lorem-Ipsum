@@ -1,3 +1,7 @@
+Hello, my name is Vitória Sousa and this application is an example of SPA (Single Page Application).
+In the whole development process I use prettier and eslint for clean and better code, so for a further development please configure prettier and eslint in your IDE.
+Follow the text below to get started!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all the dependecies and libraries.
 
 ### `npm start`
 
