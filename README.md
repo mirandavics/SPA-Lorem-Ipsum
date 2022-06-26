@@ -1,4 +1,4 @@
-Hello, my name is Vitória Sousa and this application is an example of SPA (Single Page Application).
+Hello, my name is Vitória Sousa and this application is an example of a single page website.
 In the whole development process I use prettier and eslint for clean and better code, so for a further development please configure prettier and eslint in your IDE.
 Follow the text below to get started!
 
